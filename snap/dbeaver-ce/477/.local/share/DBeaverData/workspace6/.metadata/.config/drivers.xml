@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drivers>
+	<provider id="duckdb">
+		<driver id="duckdb_jdbc" categories="sql,embedded" name="DuckDB" class="org.duckdb.DuckDBDriver" url="jdbc:duckdb:{file}" description="DuckDB JDBC driver" custom="false" embedded="true" anonymous="true">
+			<library type="jar" path="maven:/org.duckdb:duckdb_jdbc:RELEASE" custom="false">
+				<file id="org.duckdb:duckdb_jdbc:RELEASE" version="1.5.2.1" path="${home}/.local/share/DBeaverData/drivers/maven/maven-central/org.duckdb/duckdb_jdbc-1.5.2.1.jar" crc="d674a60c"/>
+			</library>
+			<library type="license" path="https://raw.githubusercontent.com/duckdb/duckdb/master/LICENSE" custom="false">
+				<file id="https://raw.githubusercontent.com/duckdb/duckdb/master/LICENSE" path="${home}/.local/share/DBeaverData/drivers/remote/duckdb/duckdb/master/LICENSE" crc="160e2028"/>
+			</library>
+		</driver>
+	</provider>
+</drivers>

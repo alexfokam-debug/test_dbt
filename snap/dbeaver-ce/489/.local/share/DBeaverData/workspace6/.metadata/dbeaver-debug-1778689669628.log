@@ -1,0 +1,87 @@
+2026-05-13 18:13:11.669 - DBeaver 26.0.4.202605031623 is starting
+2026-05-13 18:13:11.670 - OS: Linux 6.17.0-23-generic (amd64)
+2026-05-13 18:13:11.671 - Java version: 21.0.10 by Eclipse Adoptium (64bit)
+2026-05-13 18:13:11.671 - Install path: '/snap/dbeaver-ce/477/usr/share/dbeaver-ce'
+2026-05-13 18:13:11.671 - Instance path: 'file:/home/ambient-user/snap/dbeaver-ce/477/.local/share/DBeaverData/workspace6/'
+2026-05-13 18:13:11.674 - Memory available 104Mb/1024Mb
+2026-05-13 18:13:11.679 - Initialize desktop platform...
+2026-05-13 18:13:12.301 - BounceCastle bundle found. Use JCE provider BC
+> Start Core File Systems [org.eclipse.core.filesystem 1.11.400.v20251107-0507]
+> Start Core Resource Management [org.eclipse.core.resources 3.23.200.v20251217-0810]
+> Start Team Support Core [org.eclipse.team.core 3.10.1000.v20260112-1030]
+> Start DBeaver UI Navigator [org.jkiss.dbeaver.ui.navigator 1.0.178.202605031623]
+> Start JFace Text [org.eclipse.jface.text 3.30.0.v20260203-0841]
+2026-05-13 18:13:12.587 - Initialize base platform...
+2026-05-13 18:13:12.596 - Platform initialized (917ms)
+2026-05-13 18:13:12.601 - Create display
+2026-05-13 18:13:12.824 - Starting instance server at http://localhost:41767
+2026-05-13 18:13:12.829 - Run workbench
+> Start Eclipse e4 Workbench SWT [org.eclipse.e4.ui.workbench.swt 0.18.0.v20260119-0835]
+> Start Eclipse Application Services [org.eclipse.e4.core.services 2.5.300.v20251112-1253]
+> Start Eclipse UI Application Services [org.eclipse.e4.ui.services 1.6.600.v20251023-1358]
+> Start Eclipse e4 Progress View [org.eclipse.e4.ui.progress 0.5.0.v20251217-1052]
+> Start Eclipse Bindings Support [org.eclipse.e4.ui.bindings 0.15.0.v20251216-1230]
+> Start Eclipse e4 core commands [org.eclipse.e4.core.commands 1.1.700.v20250916-0927]
+> Start EMF XML/XMI Persistence [org.eclipse.emf.ecore.xmi 2.40.0.v20251210-1145]
+> Start Eclipse CSS SWT Theme Support [org.eclipse.e4.ui.css.swt.theme 0.15.0.v20251216-1230]
+> Start Eclipse e4 Workbench Add-ons [org.eclipse.e4.ui.workbench.addons.swt 1.6.0.v20251216-1230]
+> Start Eclipse e4 Workbench SWT Renderer [org.eclipse.e4.ui.workbench.renderers.swt 0.17.0.v20260131-0926]
+> Start Eclipse Dependency Injection Extensions [org.eclipse.e4.core.di.extensions 0.18.300.v20240413-1529]
+> Start DBeaver AI Model [org.jkiss.dbeaver.model.ai 2.0.21.202605031623]
+> Start DBeaver AI UI [org.jkiss.dbeaver.ui.ai 1.0.80.202605031623]
+> Start Eclipse CSS SWT Support [org.eclipse.e4.ui.css.swt 0.16.0.v20251216-1230]
+> Start Internet Connection Management [org.eclipse.core.net 1.5.800.v20250613-1119]
+> Start Equinox Java Authentication and Authorization Service (JAAS) [org.eclipse.equinox.security 1.4.700.v20250622-1644]
+> Start Internet Connection Management UI [org.eclipse.ui.net 1.6.0.v20251219-1227]
+> Start GEF Classic Draw2d [org.eclipse.draw2d 3.22.0.202602231721]
+> Start GEF Classic GEF (MVC) [org.eclipse.gef 3.25.0.202602162234]
+> Start Eclipse SDK Themes [org.eclipse.ui.themes 1.2.2900.v20250806-1940]
+2026-05-13 18:13:14.406 - Configure workbench window
+> Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.168.202605031623]
+2026-05-13 18:13:14.568 - Total database drivers: 129 (129)
+> Start Help System Core [org.eclipse.help 3.11.0.v20251227-1159]
+2026-05-13 18:13:14.651 - Create actions
+> Start Default Text Editor [org.eclipse.ui.editors 3.21.0.v20260218-1452]
+> Start Text Editor Framework [org.eclipse.ui.workbench.texteditor 3.20.0.v20260127-1637]
+2026-05-13 18:13:15.615 - Initialize workbench window
+2026-05-13 18:13:15.630 - Finish initialization
+> Start DBeaver UI Editors - Data [org.jkiss.dbeaver.ui.editors.data 1.0.178.202605031623]
+> Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.178.202605031623]
+> Start DBeaver Dashboard UI [org.jkiss.dbeaver.ui.dashboard 1.0.175.202605031623]
+> Start DBeaver ERD UI [org.jkiss.dbeaver.ui.editors.erd 3.1.19.202605031623]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.model.erd 1.1.19.202605031623]
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ui.config.sample 1.0.215.202605031623]
+2026-05-13 18:13:21.895 - Open [https://dbeaver.io/product/version.xml]
+> Start DBeaver Generic UI Plug-in [org.jkiss.dbeaver.ext.generic.ui 1.0.154.202605031623]
+> Start DBeaver DuckDB UI [org.jkiss.dbeaver.ext.duckdb.ui 1.0.7.202605031623]
+> Start DBeaver JDBC Model [org.jkiss.dbeaver.model.jdbc 1.0.71.202605031623]
+> Start DBeaver Generic Plug-in [org.jkiss.dbeaver.ext.generic 2.3.264.202605031623]
+> Start DBeaver DuckDB Model [org.jkiss.dbeaver.ext.duckdb 1.0.70.202605031623]
+2026-05-13 18:13:33.142 - Service 'org.jkiss.dbeaver.ui.UIServiceConnectionEditor' not found
+2026-05-13 18:13:51.349 - Open [https://repo1.maven.org/maven2/org/duckdb/duckdb_jdbc/maven-metadata.xml]
+2026-05-13 18:13:51.461 - Open [https://repo1.maven.org/maven2/org/duckdb/duckdb_jdbc/1.5.2.1/duckdb_jdbc-1.5.2.1.pom]
+2026-05-13 18:13:53.030 - Open [https://repo1.maven.org/maven2/org/duckdb/duckdb_jdbc/1.5.2.1/duckdb_jdbc-1.5.2.1.jar]
+2026-05-13 18:13:53.851 - Open [https://raw.githubusercontent.com/duckdb/duckdb/master/LICENSE]
+2026-05-13 18:13:54.137 - Connect with 'dev.duckdb' (duckdb_jdbc-19e221dadf1-7ac427fdafcebb52)
+2026-05-13 18:13:54.190 - Execution context opened (dev.duckdb; Main; 0)
+2026-05-13 18:13:54.565 - Error reading and setting client application name: getClientInfoProperties
+2026-05-13 18:13:54.565 - Error setting client application name: null
+2026-05-13 18:13:54.587 - Error getting sqlStateType: getSQLStateType
+2026-05-13 18:13:54.691 - Connected (duckdb_jdbc-19e221dadf1-7ac427fdafcebb52, DuckDBJ [1.0])
+2026-05-13 18:13:54.704 - Execution context closed (dev.duckdb, 0)
+2026-05-13 18:13:54.704 - Disconnected (duckdb_jdbc-19e221dadf1-7ac427fdafcebb52)
+2026-05-13 18:14:01.384 - Connect with 'dev.duckdb' (duckdb_jdbc-19e221d6816-4f0d91b6357699cc)
+2026-05-13 18:14:01.385 - Execution context opened (dev.duckdb; Main; 1)
+2026-05-13 18:14:01.402 - Error reading and setting client application name: getClientInfoProperties
+2026-05-13 18:14:01.402 - Error setting client application name: null
+2026-05-13 18:14:01.404 - Error getting sqlStateType: getSQLStateType
+2026-05-13 18:14:01.484 - Connected (duckdb_jdbc-19e221d6816-4f0d91b6357699cc, DuckDBJ [1.0])
+2026-05-13 18:14:09.443 - Execution context closed (dev.duckdb, 1)
+2026-05-13 18:14:09.444 - Disconnected (duckdb_jdbc-19e221d6816-4f0d91b6357699cc)
+2026-05-13 18:14:13.670 - Dispose navigator model
+2026-05-13 18:14:13.762 - DBeaver is stopping
+2026-05-13 18:14:13.767 - Stop instance server
+2026-05-13 18:14:13.772 - Instance server has been stopped
+2026-05-13 18:14:13.781 - DBeaver shutdown completed
+2026-05-13 18:14:13.817 - Shutdown desktop platform...
+2026-05-13 18:14:13.913 - Platform shutdown completed (95ms)

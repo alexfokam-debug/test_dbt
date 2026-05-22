@@ -1,0 +1,14 @@
+10
+
+https://discuss.python.org/
+https://discuss.python.org/service-worker.js
+false
+{bc8c7c77-48bd-48b7-aece-afd0391ffb0c}
+0
+1778688412661496
+1778688412661818
+1778688412603502
+0
+true
+0
+#

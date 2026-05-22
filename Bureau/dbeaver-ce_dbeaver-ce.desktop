@@ -1,0 +1,18 @@
+[Desktop Entry]
+X-SnapInstanceName=dbeaver-ce
+Version=1.0
+Type=Application
+Terminal=false
+Name=dbeaver-ce
+GenericName=Universal Database Manager
+Comment=Universal Database Manager and SQL Client.
+X-SnapAppName=dbeaver-ce
+X-SnapCommonID=dbeaver
+Exec=/snap/bin/dbeaver-ce %U
+Icon=/snap/dbeaver-ce/current/usr/share/dbeaver-ce/dbeaver.png
+Categories=IDE;Development
+StartupWMClass=DBeaver
+StartupNotify=true
+Keywords=Database;SQL;IDE;JDBC;ODBC;MySQL;PostgreSQL;Oracle;DB2;MariaDB
+MimeType=application/sql
+

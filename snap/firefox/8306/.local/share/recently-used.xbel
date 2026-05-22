@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/ambient-user/T%C3%A9l%C3%A9chargements/drive-download-20260513T161850Z-3-001.zip" added="2026-05-13T16:18:55.720767Z" modified="2026-05-13T16:18:55.720784Z" visited="2026-05-13T16:18:55.720770Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox_firefox %u&apos;" modified="2026-05-13T16:18:55.720775Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

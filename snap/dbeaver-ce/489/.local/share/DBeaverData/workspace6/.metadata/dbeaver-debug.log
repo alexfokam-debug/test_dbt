@@ -1,0 +1,112 @@
+2026-05-21 12:04:30.251 - DBeaver 26.0.5.202605171705 is starting
+2026-05-21 12:04:30.252 - OS: Linux 6.17.0-23-generic (amd64)
+2026-05-21 12:04:30.252 - Java version: 21.0.10 by Eclipse Adoptium (64bit)
+2026-05-21 12:04:30.253 - Install path: '/snap/dbeaver-ce/489/usr/share/dbeaver-ce'
+2026-05-21 12:04:30.253 - Instance path: 'file:/home/ambient-user/snap/dbeaver-ce/489/.local/share/DBeaverData/workspace6/'
+2026-05-21 12:04:30.255 - Memory available 114Mb/1024Mb
+2026-05-21 12:04:30.260 - Initialize desktop platform...
+2026-05-21 12:04:30.876 - BounceCastle bundle found. Use JCE provider BC
+> Start Core File Systems [org.eclipse.core.filesystem 1.11.400.v20251107-0507]
+> Start Core Resource Management [org.eclipse.core.resources 3.23.200.v20251217-0810]
+> Start Team Support Core [org.eclipse.team.core 3.10.1000.v20260112-1030]
+> Start DBeaver UI Navigator [org.jkiss.dbeaver.ui.navigator 1.0.179.202605171705]
+2026-05-21 12:04:31.157 - Initialize base platform...
+2026-05-21 12:04:31.166 - Platform initialized (906ms)
+2026-05-21 12:04:31.171 - 	Create display
+2026-05-21 12:04:31.346 - 	Patch workbench configuration
+2026-05-21 12:04:31.486 - 	Starting instance server at http://localhost:38093
+2026-05-21 12:04:31.492 - Run workbench
+> Start Eclipse e4 Workbench SWT [org.eclipse.e4.ui.workbench.swt 0.18.0.v20260119-0835]
+> Start Eclipse Application Services [org.eclipse.e4.core.services 2.5.300.v20251112-1253]
+> Start Eclipse UI Application Services [org.eclipse.e4.ui.services 1.6.600.v20251023-1358]
+> Start Eclipse e4 Progress View [org.eclipse.e4.ui.progress 0.5.0.v20251217-1052]
+> Start Eclipse Bindings Support [org.eclipse.e4.ui.bindings 0.15.0.v20251216-1230]
+> Start Eclipse e4 core commands [org.eclipse.e4.core.commands 1.1.700.v20250916-0927]
+> Start EMF XML/XMI Persistence [org.eclipse.emf.ecore.xmi 2.40.0.v20251210-1145]
+> Start Eclipse CSS SWT Theme Support [org.eclipse.e4.ui.css.swt.theme 0.15.0.v20251216-1230]
+> Start Eclipse e4 Workbench Add-ons [org.eclipse.e4.ui.workbench.addons.swt 1.6.0.v20251216-1230]
+> Start Eclipse e4 Workbench SWT Renderer [org.eclipse.e4.ui.workbench.renderers.swt 0.17.0.v20260131-0926]
+> Start Eclipse Dependency Injection Extensions [org.eclipse.e4.core.di.extensions 0.18.300.v20240413-1529]
+> Start DBeaver AI Model [org.jkiss.dbeaver.model.ai 2.0.22.202605171705]
+> Start DBeaver AI UI [org.jkiss.dbeaver.ui.ai 1.0.81.202605171705]
+> Start Eclipse CSS SWT Support [org.eclipse.e4.ui.css.swt 0.16.0.v20251216-1230]
+> Start Internet Connection Management [org.eclipse.core.net 1.5.800.v20250613-1119]
+> Start Equinox Java Authentication and Authorization Service (JAAS) [org.eclipse.equinox.security 1.4.700.v20250622-1644]
+> Start Internet Connection Management UI [org.eclipse.ui.net 1.6.0.v20251219-1227]
+> Start GEF Classic Draw2d [org.eclipse.draw2d 3.22.0.202602231721]
+> Start GEF Classic GEF (MVC) [org.eclipse.gef 3.25.0.202602162234]
+> Start JFace Text [org.eclipse.jface.text 3.30.0.v20260203-0841]
+> Start Eclipse SDK Themes [org.eclipse.ui.themes 1.2.2900.v20250806-1940]
+2026-05-21 12:04:33.125 - Configure workbench window
+> Start DBeaver SQL Model [org.jkiss.dbeaver.model.sql 1.0.169.202605171705]
+2026-05-21 12:04:33.292 - Total database drivers: 129 (129)
+> Start Help System Core [org.eclipse.help 3.11.0.v20251227-1159]
+2026-05-21 12:04:33.353 - Create actions
+2026-05-21 12:04:33.835 - Initialize workbench window
+2026-05-21 12:04:33.859 - Finish initialization
+> Start Default Text Editor [org.eclipse.ui.editors 3.21.0.v20260218-1452]
+> Start Text Editor Framework [org.eclipse.ui.workbench.texteditor 3.20.0.v20260127-1637]
+> Start DBeaver UI Editors - Data [org.jkiss.dbeaver.ui.editors.data 1.0.179.202605171705]
+> Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.179.202605171705]
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ui.config.sample 1.0.216.202605171705]
+2026-05-21 12:04:50.199 - Open [https://dbeaver.io/product/version.xml]
+> Start DBeaver Dashboard UI [org.jkiss.dbeaver.ui.dashboard 1.0.176.202605171705]
+> Start DBeaver ERD UI [org.jkiss.dbeaver.ui.editors.erd 3.1.20.202605171705]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.model.erd 1.1.20.202605171705]
+> Start DBeaver Generic UI Plug-in [org.jkiss.dbeaver.ext.generic.ui 1.0.155.202605171705]
+> Start DBeaver DuckDB UI [org.jkiss.dbeaver.ext.duckdb.ui 1.0.8.202605171705]
+> Start DBeaver JDBC Model [org.jkiss.dbeaver.model.jdbc 1.0.72.202605171705]
+> Start DBeaver Generic Plug-in [org.jkiss.dbeaver.ext.generic 2.3.265.202605171705]
+> Start DBeaver DuckDB Model [org.jkiss.dbeaver.ext.duckdb 1.0.71.202605171705]
+2026-05-21 12:06:24.724 - Service 'org.jkiss.dbeaver.ui.UIServiceConnectionEditor' not found
+2026-05-21 12:06:55.223 - Connect with 'ecommerce_dbt' (duckdb_jdbc-19e4a009ee8-46d18f69713a382a)
+2026-05-21 12:06:55.277 - Execution context opened (ecommerce_dbt; Main; 0)
+2026-05-21 12:06:55.655 - Execution context closed (ecommerce_dbt, 0)
+2026-05-21 12:10:01.584 - Connect with 'dev.duckdb' (duckdb_jdbc-19e4a002788-6550dfce080b0fa4)
+2026-05-21 12:10:01.586 - Execution context opened (dev.duckdb; Main; 1)
+2026-05-21 12:10:01.616 - Error reading and setting client application name: getClientInfoProperties
+2026-05-21 12:10:01.616 - Error setting client application name: null
+2026-05-21 12:10:01.641 - Error getting sqlStateType: getSQLStateType
+2026-05-21 12:10:01.778 - Connected (duckdb_jdbc-19e4a002788-6550dfce080b0fa4, DuckDBJ [1.0])
+> Start DBeaver Tasks View [org.jkiss.dbeaver.tasks.ui.view 1.0.128.202605171705]
+> Start DBeaver Tasks - General UI [org.jkiss.dbeaver.tasks.ui 1.0.157.202605171705]
+2026-05-21 12:20:58.388 - Execution context closed (dev.duckdb, 1)
+2026-05-21 12:20:58.389 - Disconnected (duckdb_jdbc-19e4a002788-6550dfce080b0fa4)
+2026-05-21 16:55:15.838 - Connect with 'dev.duckdb' (duckdb_jdbc-19e4a002788-6550dfce080b0fa4)
+2026-05-21 16:55:15.845 - Execution context opened (dev.duckdb; Main; 2)
+2026-05-21 16:55:15.868 - Error reading and setting client application name: getClientInfoProperties
+2026-05-21 16:55:15.868 - Error setting client application name: null
+2026-05-21 16:55:15.873 - Error getting sqlStateType: getSQLStateType
+2026-05-21 16:55:15.963 - Connected (duckdb_jdbc-19e4a002788-6550dfce080b0fa4, DuckDBJ [1.0])
+2026-05-21 20:56:22.369 - Execution context closed (dev.duckdb, 2)
+2026-05-21 20:56:22.371 - Disconnected (duckdb_jdbc-19e4a002788-6550dfce080b0fa4)
+2026-05-22 11:53:35.390 - Connect with 'dev.duckdb' (duckdb_jdbc-19e4a002788-6550dfce080b0fa4)
+2026-05-22 11:53:35.402 - Execution context opened (dev.duckdb; Main; 3)
+2026-05-22 11:53:35.425 - Error reading and setting client application name: getClientInfoProperties
+2026-05-22 11:53:35.426 - Error setting client application name: null
+2026-05-22 11:53:35.432 - Error getting sqlStateType: getSQLStateType
+2026-05-22 11:53:35.542 - Connected (duckdb_jdbc-19e4a002788-6550dfce080b0fa4, DuckDBJ [1.0])
+2026-05-22 11:53:38.547 - Execution context closed (dev.duckdb, 3)
+2026-05-22 11:53:38.552 - Disconnected (duckdb_jdbc-19e4a002788-6550dfce080b0fa4)
+2026-05-22 11:53:41.890 - Connect with 'dev.duckdb' (duckdb_jdbc-19e4a002788-6550dfce080b0fa4)
+2026-05-22 11:53:41.893 - Execution context opened (dev.duckdb; Main; 4)
+2026-05-22 11:53:41.911 - Error reading and setting client application name: getClientInfoProperties
+2026-05-22 11:53:41.912 - Error setting client application name: null
+2026-05-22 11:53:41.914 - Error getting sqlStateType: getSQLStateType
+2026-05-22 11:53:42.032 - Connected (duckdb_jdbc-19e4a002788-6550dfce080b0fa4, DuckDBJ [1.0])
+2026-05-22 12:01:06.180 - Execution context closed (dev.duckdb, 4)
+2026-05-22 12:01:06.181 - Disconnected (duckdb_jdbc-19e4a002788-6550dfce080b0fa4)
+2026-05-22 12:01:31.337 - Connect with 'dev.duckdb' (duckdb_jdbc-19e4a002788-6550dfce080b0fa4)
+2026-05-22 12:01:31.340 - Execution context opened (dev.duckdb; Main; 5)
+2026-05-22 12:01:31.364 - Error reading and setting client application name: getClientInfoProperties
+2026-05-22 12:01:31.364 - Error setting client application name: null
+2026-05-22 12:01:31.367 - Error getting sqlStateType: getSQLStateType
+2026-05-22 12:01:31.468 - Connected (duckdb_jdbc-19e4a002788-6550dfce080b0fa4, DuckDBJ [1.0])
+2026-05-22 12:01:58.274 - Execution context closed (dev.duckdb, 5)
+2026-05-22 12:01:58.274 - Disconnected (duckdb_jdbc-19e4a002788-6550dfce080b0fa4)
+2026-05-22 12:02:26.983 - Connect with 'dev.duckdb' (duckdb_jdbc-19e4a002788-6550dfce080b0fa4)
+2026-05-22 12:02:26.985 - Execution context opened (dev.duckdb; Main; 6)
+2026-05-22 12:02:27.012 - Error reading and setting client application name: getClientInfoProperties
+2026-05-22 12:02:27.013 - Error setting client application name: null
+2026-05-22 12:02:27.015 - Error getting sqlStateType: getSQLStateType
+2026-05-22 12:02:27.114 - Connected (duckdb_jdbc-19e4a002788-6550dfce080b0fa4, DuckDBJ [1.0])
